@@ -1,0 +1,2 @@
+# n_queen_visualizer
+n_queen_visualizer
